@@ -72,6 +72,7 @@ ZSH_THEME="custom"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(ctf
 zsh-autosuggestions
+history
 )
 
 source $ZSH/oh-my-zsh.sh
