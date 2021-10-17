@@ -2,7 +2,7 @@
 
 ## Custom ZSH Theme
 
-![image](./images/prompt.png)
+![image](./images/zsh_prompt.png)
 
 Place in `~/.oh-my-zsh/themes/`
 
