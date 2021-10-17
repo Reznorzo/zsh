@@ -9,3 +9,10 @@ Place in `~/.oh-my-zsh/themes/`
 Edit `~/.zshrc`
 
 `ZSH_THEME="custom"`
+
+## Custom CTF Plugin
+
+Place in `~/.oh-my-zsh/custom/plugins/ctf`
+
+## Enable
+`source .zshrc`
