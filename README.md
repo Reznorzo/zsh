@@ -1,4 +1,6 @@
-# Custom ZSH Theme
+# ZSH Customisations
+
+## Custom ZSH Theme
 
 ![image](./images/prompt.png)
 
