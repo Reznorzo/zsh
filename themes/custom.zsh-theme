@@ -14,9 +14,9 @@ CURRENT_BG='NONE'
 # End the prompt, closing any open segments
 prompt_end() {
   if [[ $UID -eq 0 ]]; then
-    echo -n "%{%f%} %{%k%F{$red}%}#"
+    echo -n "%{%f%} %{%k%F{yellow}%}#"
   else
-    echo -n "%{%f%} %{%k%F{$red}%}$"
+    echo -n "%{%f%} %{%k%F{yellow}%}$"
   fi 
   CURRENT_BG=''
 }
